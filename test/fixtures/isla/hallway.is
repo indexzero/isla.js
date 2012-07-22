@@ -1,0 +1,15 @@
+my name is 'Mary'
+my summary is 'You are a young boy.  You have no shoes on.'
+
+hallway is a room
+hallway summary is 'It is dark. You hear a girl crying.'
+
+rose is a flower
+rose summary is 'The rose is the colour of red velvet.'
+hallway items add rose
+
+garden is a room
+garden summary is 'You see a girl crying.'
+hallway exit is garden
+
+my room is hallway
