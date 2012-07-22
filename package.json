@@ -1,0 +1,21 @@
+{
+  "name": "isla.js",
+  "description": "A Javascript runtime environment for the Isla language",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/indexzero/isla.js.git"
+  },
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "bin": {
+    "islac": "bin/islac"
+  },
+  "scripts": {
+    "test": "vows --spec"
+  },
+  "engines": {
+    "node": ">= 0.6.6"
+  }
+}
